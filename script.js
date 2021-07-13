@@ -9,7 +9,7 @@ button.addEventListener("click", function (){
 
 const goat = function () {
     const newImg = document.createElement("img");
-    newImg.src = "img/goat_unsplash.jpg";
+    newImg.src = "img/goat-unsplash.jpg";
     document.body.append(newImg);
 };
 
